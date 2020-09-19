@@ -1,0 +1,10 @@
+As shown in the main file the results are not very good, but this wasn't the main objetive of this project.
+Our objetive was to design the neural network and to implement the CNN, LSTM and Autoencoder layers all together, 
+it was a very difficult task and we have laernt a lot about Machine Learning and Tensorflow.
+
+Another big obstacle we had is how to train the model, we had to use the Keras Video Generator and make a generator 
+inside a generator because if we loaded all the images directly on Colab the RAM stopped and runtyme was reset.
+
+Although we are very proud of designing this model, make it trainable and be able to get some predictions we know still
+ther is a lot of work to do to get some good results. Our next idea is to use Transformers instead of LSTM, it looks this 
+kind of models have a lot of potential in these tasks.
